@@ -10,6 +10,7 @@
   "author": "shekhar kumar",
   "license": "MIT",
   "dependencies": {
+    "bootstrap": "^4.2.1",
     "express": "^4.16.2",
     "morgan": "^1.9.0"
   }
