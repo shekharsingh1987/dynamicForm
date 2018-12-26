@@ -1,0 +1,14 @@
+.form-container {
+    max-height: 80vh;
+    overflow: auto;
+}
+
+.json-container {
+    max-height: 80vh;
+    overflow: auto;
+    background: #ecfbff;
+    padding: 10px;
+    font-size: 16px;
+    color: #000;
+    letter-spacing: 0px;
+}
